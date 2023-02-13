@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    background-color: paleturquoise;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    background-color: pink;
+    padding: 10px;
+    border-radius: 10px;
+    width: 400px;
+    font-family: cursive;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+}
+#text-area{
+    width: 100%;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    box-sizing: border-box;
+}
